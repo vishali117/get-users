@@ -14,3 +14,19 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.header{
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+  padding: 2px;
+  
+}
+.footer{
+  background-color: #000000;
+  color: #fff;
+  text-align: center;
+}
+
+
+
